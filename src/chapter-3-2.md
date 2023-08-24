@@ -1,5 +1,3 @@
-Selecting the Right AI Tools and Platforms for Your Writing Needs
-======================================================================================================================
 
 In this chapter, we will explore how to get started with AI-enhanced writing by selecting the right AI tools and platforms for your specific writing needs.
 

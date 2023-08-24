@@ -1,5 +1,3 @@
-Chapter 6: The Impact of AI on Writing Transformation
-=====================================================
 
 In this chapter, we will explore the impact of AI on writing transformation, including how it enables writers to overcome writing challenges and achieve their writing goals, facilitates continuous learning and improvement in writing practice, and empowers writers to achieve greater success and recognition in their writing endeavors.
 

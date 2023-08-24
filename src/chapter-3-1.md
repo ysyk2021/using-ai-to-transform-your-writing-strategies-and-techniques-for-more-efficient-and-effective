@@ -1,5 +1,3 @@
-Identifying Your Writing Goals and Objectives for Optimal Writing Outcomes
-===============================================================================================================================
 
 In this chapter, we will explore the importance of identifying your writing goals and objectives when getting started with AI-enhanced writing.
 

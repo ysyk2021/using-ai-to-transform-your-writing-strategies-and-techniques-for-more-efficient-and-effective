@@ -1,5 +1,3 @@
-Different Types of AI Techniques and Applications for Writing Practice
-=========================================================================================================================================
 
 In this chapter, we will explore the different types of AI techniques and applications that can be used for writing practice, including grammar and spell-checkers, style checkers, idea generators, research assistants, and writing coaches.
 

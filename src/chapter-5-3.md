@@ -1,5 +1,3 @@
-Improving Writing Confidence and Motivation with AI-Enabled Feedback and Support
-=====================================================================================================================================
 
 AI-powered tools and platforms can provide writers with feedback and support that improves their confidence and motivation, enabling them to achieve more efficient and effective writing outcomes. In this chapter, we will explore how AI strategies can improve writing confidence and motivation by providing writers with personalized feedback and coaching.
 

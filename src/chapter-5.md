@@ -1,5 +1,3 @@
-Chapter 5: AI Strategies for Writing Transformation
-===================================================
 
 In this chapter, we will explore some specific strategies for using AI to transform your writing process and achieve more efficient and effective writing outcomes.
 

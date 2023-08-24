@@ -1,5 +1,3 @@
-Boosting Productivity and Focus with AI-Enabled Time Management and Distraction Control
-============================================================================================================================================
 
 Distractions and poor time management can be significant barriers to productive writing. In this chapter, we will explore the use of AI-enabled time management and distraction control to boost productivity and focus in writing.
 

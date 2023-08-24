@@ -1,5 +1,3 @@
-Tools and Platforms for AI-Enabled Writing Transformation
-============================================================================================================================
 
 In this chapter, we will explore the tools and platforms available for AI-enabled writing transformation, including grammar and spell-checkers, style checkers, research assistants, and writing coaches.
 

@@ -1,5 +1,3 @@
-Basic Concepts and Processes of AI Algorithms for Writing Analysis and Enhancement
-=====================================================================================================================================================
 
 In this chapter, we will explore the basic concepts and processes of AI algorithms for writing analysis and enhancement, helping you understand how AI technology can transform your writing.
 

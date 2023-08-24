@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Technology for Writing Transformation
-=================================================================
 
 In this chapter, we will explore the basics of AI technology for writing transformation, including the concepts and processes of AI algorithms for writing analysis and enhancement, different types of AI techniques and applications for writing practice, and tools and platforms for AI-enabled writing transformation.
 
