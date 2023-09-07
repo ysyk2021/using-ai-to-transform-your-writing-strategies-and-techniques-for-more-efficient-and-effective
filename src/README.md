@@ -10,3 +10,7 @@ We cover a range of topics, from grammar and syntax improvement to content creat
 By leveraging the latest technology and tools, writers can unlock new levels of creativity and productivity, while also improving the quality and effectiveness of their writing. So, let's dive in and discover the exciting world of AI for writing, and learn how to use these powerful tools to take our craft to the next level.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
