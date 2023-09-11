@@ -1,5 +1,4 @@
-Chapter 6: Facilitating Continuous Learning and Improvement in Writing Practice
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the importance of fostering continuous learning and improvement in writing practice through the strategic integration of artificial intelligence (AI). Enhancing writing skills and techniques is essential for achieving more efficient and effective writing outcomes, and AI can play a pivotal role in this endeavor.
 

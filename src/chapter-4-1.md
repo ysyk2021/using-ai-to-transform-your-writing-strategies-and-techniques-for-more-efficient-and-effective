@@ -1,5 +1,4 @@
-Chapter 4: Optimizing Writing Style and Tone with AI-Enabled Language Analysis and Recommendations
-==================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the exciting world of AI-enabled language analysis and recommendations to help you optimize your writing style and tone for more efficient and effective writing outcomes. With the ever-increasing importance of clear, engaging, and persuasive communication, harnessing the power of AI can significantly enhance your writing skills.
 

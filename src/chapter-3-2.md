@@ -1,5 +1,4 @@
-Chapter 2: Selecting the Right AI Tools and Platforms for Your Writing Needs
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial process of selecting the most suitable AI tools and platforms to enhance your writing strategies. As the landscape of artificial intelligence for writing continues to evolve, it's essential to make informed choices to optimize your writing outcomes.
 

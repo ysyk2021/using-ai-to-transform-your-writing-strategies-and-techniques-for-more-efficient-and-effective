@@ -1,7 +1,6 @@
 Certainly! Here's a Markdown-formatted chapter titled "Enhancing Creativity and Innovation with AI-Enabled Mind Mapping and Brainstorming" for the book "Using AI to Transform Your Writing: Strategies and Techniques for More Efficient and Effective Writing Outcomes":
 
-Chapter 10: Enhancing Creativity and Innovation with AI-Enabled Mind Mapping and Brainstorming
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

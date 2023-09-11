@@ -1,5 +1,4 @@
-Chapter 5: Empowering Writers to Achieve Greater Success and Recognition in Their Writing Endeavors
-===================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI can empower writers to reach new heights of success and recognition in their writing endeavors. Whether you're an aspiring author, a content creator, or a professional communicator, AI offers a range of tools and techniques to help you stand out and excel in the world of writing.
 

@@ -1,7 +1,6 @@
 Certainly! Here's a Markdown-formatted chapter titled "Improving Writing Confidence and Motivation with AI-Enabled Feedback and Support" for the book "Using AI to Transform Your Writing: Strategies and Techniques for More Efficient and Effective Writing Outcomes":
 
-Chapter 6: Improving Writing Confidence and Motivation with AI-Enabled Feedback and Support
-===========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

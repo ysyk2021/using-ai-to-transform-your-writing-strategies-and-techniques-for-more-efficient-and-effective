@@ -1,7 +1,6 @@
 Certainly! Here's a Markdown-formatted chapter titled "Different Types of AI Techniques and Applications for Writing Practice" for the book "Using AI to Transform Your Writing: Strategies and Techniques for More Efficient and Effective Writing Outcomes":
 
-Chapter 4: Different Types of AI Techniques and Applications for Writing Practice
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

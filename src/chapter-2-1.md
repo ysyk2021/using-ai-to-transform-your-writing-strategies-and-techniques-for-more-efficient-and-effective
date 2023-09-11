@@ -1,7 +1,6 @@
 Certainly! Here's a Markdown-formatted chapter titled "Basic Concepts and Processes of AI Algorithms for Writing Analysis and Enhancement" for the book "Using AI to Transform Your Writing: Strategies and Techniques for More Efficient and Effective Writing Outcomes":
 
-Chapter 2: Basic Concepts and Processes of AI Algorithms for Writing Analysis and Enhancement
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

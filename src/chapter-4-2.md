@@ -1,7 +1,6 @@
 Certainly! Here's a Markdown-formatted chapter titled "Enhancing Grammar and Spelling Accuracy with AI-Enabled Proofreading and Editing" for the book "Using AI to Transform Your Writing: Strategies and Techniques for More Efficient and Effective Writing Outcomes":
 
-Chapter 5: Enhancing Grammar and Spelling Accuracy with AI-Enabled Proofreading and Editing
-===========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

@@ -1,5 +1,4 @@
-Chapter 1: Identifying Your Writing Goals and Objectives for Optimal Writing Outcomes
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this opening chapter, we embark on a journey to explore the foundational step of identifying your writing goals and objectives. By clarifying your intentions and setting clear targets, you lay the groundwork for leveraging AI to transform your writing strategies and achieve more efficient and effective writing outcomes.
 

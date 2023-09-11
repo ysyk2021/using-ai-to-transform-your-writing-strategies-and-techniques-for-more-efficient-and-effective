@@ -1,7 +1,6 @@
 Certainly! Here's a Markdown-formatted chapter titled "Enabling Writers to Overcome Writing Challenges and Achieve Their Writing Goals" for the book "Using AI to Transform Your Writing: Strategies and Techniques for More Efficient and Effective Writing Outcomes":
 
-Chapter 3: Enabling Writers to Overcome Writing Challenges and Achieve Their Writing Goals
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
